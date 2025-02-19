@@ -16,4 +16,4 @@ My name is Luan and I am a Senior Backend Developer with 5+ years of experience 
 - Search engine: Elasticsearch
 - API experiences: Stripe API, Google APIs, Facebook APIs, Twitter API...
 
-If you feel I am suitable for your project, please invite me via luan.nguyen@flowctl.com, and I will respond soon!
+If you feel I am suitable for your project, please invite me via luanbe68@gmail.com, and I will respond soon!
